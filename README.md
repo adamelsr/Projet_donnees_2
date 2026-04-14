@@ -48,8 +48,6 @@ Le projet requiert Python 3 avec les bibliothèques suivantes.
 pip install numpy pandas scipy matplotlib seaborn Pillow scikit-learn jupyterlab jupytext
 ```
 
-Le package `intro_science_donnees` est fourni par le cours et doit être installé séparément selon les instructions de l'enseignant.
-
 ## Lancement
 
 Pour ouvrir une feuille dans JupyterLab, lancez `jupyter lab` depuis la racine du projet puis ouvrez `0_analyse.md`. Les feuilles `.md` sont exécutées comme des notebooks grâce à Jupytext.
